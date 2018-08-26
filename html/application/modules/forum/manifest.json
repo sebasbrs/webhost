@@ -1,0 +1,11 @@
+{
+    "name":"forum",
+    "description":"Forum Integrated for FCMS 6.20",
+    
+    "author":
+    {
+        "name":"Asmodeos Network CO",
+        "website":"http://www.asmodeosnetworkco.tk/"
+    },
+    "enabled":true
+}
